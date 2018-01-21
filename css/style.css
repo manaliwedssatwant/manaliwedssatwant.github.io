@@ -281,6 +281,9 @@ label{
     top: 50%;
     right: 31%;
 }
+#dsq-content #dsq-comments .dsq-comment-body {
+  background-color: aliceblue;
+}
 /*--Slider Part starts Here--*/
 #slider2,
 #slider3 {
@@ -291,6 +294,9 @@ label{
 }
 .callbacks_container {
   width: 100%;
+}
+.disqus {
+  background-color: beige;
 }
 .callbacks {
   position: relative;
